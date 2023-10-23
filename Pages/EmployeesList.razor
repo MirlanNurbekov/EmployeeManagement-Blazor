@@ -34,9 +34,12 @@ else
                     LastName
                 </th>
                 <th>
+                    Phone Number
+                </th>
+                <th>
                     Disignation
                 </th>
-              <th>Actions</th>
+              <th>City</th>
             </tr>
         </thead>
         <tbody>
@@ -49,8 +52,9 @@ else
                 <td>@emp.LastName</td>
                 <td>@emp.PhoneNumber</td>
                 <td>@emp.Designation</td>
+                <td>@emp.City</td>
                 <td>
-                    <a class="nav-link" href="EditEmployee/@emp.Id">
+                        <a class="nav-link" href="editEmployee/@emp.Id">
                         <span class="oi oi-pencil" aria-hidden="true">Edit</span>
                     </a>
                     <a class="nav-link" href="Delete/@emp.Id">

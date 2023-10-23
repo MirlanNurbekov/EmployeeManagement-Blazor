@@ -20,8 +20,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/mirla/Desktop/Learning curve/EmployeeCrudBlazor/Pages/AddNewEmployee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkTmV3RW1wbG95ZWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mirla/Desktop/Learning curve/EmployeeCrudBlazor/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirla/Desktop/Learning curve/EmployeeCrudBlazor/Pages/DeleteEmployee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlRW1wbG95ZWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirla/Desktop/Learning curve/EmployeeCrudBlazor/Pages/EditEmployee.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEVtcGxveWVlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/mirla/Desktop/Learning curve/EmployeeCrudBlazor/Pages/EmployeesList.razor]
